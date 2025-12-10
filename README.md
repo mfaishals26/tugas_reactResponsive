@@ -8,26 +8,25 @@ Project dashboard responsive menggunakan React/React Native (Expo).
 ```bash
 git clone https://github.com/mfaishals26/tugas_reactResponsive.git
 cd tugas_reactResponsive
-2. Install Dependency
+
+### 2. Install Dependency
 bash
 Copy code
 npm install
-3. Jalankan Project
+
+### 3. Jalankan Project
 bash
 Copy code
 npx expo start
-📁 Struktur Project
+
+### 📁 Struktur Project
 components/ → komponen UI
-
 screens/ → halaman utama
-
 assets/ → gambar/icon
-
 app.json → konfigurasi Expo
-
 package.json → daftar dependency
 
-🧑‍💻 Teknologi yang Digunakan
+### 🧑‍💻 Teknologi yang Digunakan
 React / React Native
 
 Expo
