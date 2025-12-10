@@ -1,36 +1,63 @@
-# Responsive Dashboard
+# 📊 Responsive Dashboard — React / Expo
 
-Project dashboard responsive menggunakan React/React Native (Expo).
+Dashboard modern dan responsif menggunakan **React + Expo**, dirancang untuk tampilan mobile maupun web.  
 
-## 📌 Cara Menjalankan Project
+---
 
-### 1. Clone Repository
+## 🚀 Fitur Utama
+- Layout dashboard responsif  
+- Sidebar navigasi modern  
+- Komponen UI reusable  
+- Animasi ringan dan smooth  
+- Struktur folder rapi  
+- Mudah dikembangkan
+
+---
+
+## 📦 Teknologi yang Digunakan
+- **React Native**
+- **Expo**
+- **JavaScript / TypeScript (opsional)**
+- **Modern UI Components**
+
+---
+
+## 🛠️ Cara Menjalankan Project
+
+### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/mfaishals26/tugas_reactResponsive.git
 cd tugas_reactResponsive
+```
 
-### 2. Install Dependency
-bash
-Copy code
+### 2️⃣ Install Dependency
+```bash
 npm install
+```
 
-### 3. Jalankan Project
-bash
-Copy code
+### 3️⃣ Jalankan Project di Expo
+```bash
 npx expo start
+```
 
-### 📁 Struktur Project
-components/ → komponen UI
-screens/ → halaman utama
-assets/ → gambar/icon
-app.json → konfigurasi Expo
-package.json → daftar dependency
+Setelah itu, kamu bisa pilih:
+- **a** → jalankan di Android emulator  
+- **w** → buka di browser  
+- Scan QR pakai Expo Go di HP  
 
-### 🧑‍💻 Teknologi yang Digunakan
-React / React Native
+---
 
-Expo
+## 📁 Struktur Project
+```
+Responsive-Dashboard/
+│── assets/          # Gambar dan icon
+│── components/      # Komponen UI reusable
+│── screens/         # Halaman aplikasi
+│── App.js           # Root aplikasi
+│── package.json     # Dependency dan script
+```
 
-JavaScript / TypeScript (opsional)
 
-Responsive Layout
+## ✨ Author
+**Muhammad Faishal Setiawan**  
+GitHub: https://github.com/mfaishals26  
