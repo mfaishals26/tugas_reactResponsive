@@ -21,6 +21,9 @@ Dashboard modern dan responsif menggunakan **React + Expo**, dirancang untuk tam
 - **Modern UI Components**
 
 ---
+## 🖼️ Preview
+- **tampilan di Mobile** <img width="208" height="449" alt="capturescreenMOBILE" src="https://github.com/user-attachments/assets/72297c1e-e199-4028-b14e-034041b3b2ee" />
+
 
 ## 🛠️ Cara Menjalankan Project
 
