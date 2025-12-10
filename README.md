@@ -40,12 +40,6 @@ npm install
 npx expo start
 ```
 
-Setelah itu, kamu bisa pilih:
-- **a** → jalankan di Android emulator  
-- **w** → buka di browser  
-- Scan QR pakai Expo Go di HP  
-
----
 
 ## 📁 Struktur Project
 ```
